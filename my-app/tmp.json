@@ -1,0 +1,66 @@
+{
+  "query": "f",
+  "count": 24,
+  "rows": [
+    {
+      "id": 9,
+      "name": "Asteelflash",
+      "state": "CA",
+      "active": true
+    },
+    {
+      "id": 24,
+      "name": "Curt Manufacturing",
+      "state": "CA",
+      "active": true
+    },
+    {
+      "id": 33,
+      "name": "FG",
+      "state": "CA",
+      "active": true
+    },
+    {
+      "id": 34,
+      "name": "Foam Molders & Specialties",
+      "state": "CA",
+      "active": true
+    },
+    {
+      "id": 35,
+      "name": "Freudenberg",
+      "state": "CA",
+      "active": true
+    },
+    {
+      "id": 36,
+      "name": "GFS Chemicals",
+      "state": "CA",
+      "active": true
+    },
+    {
+      "id": 39,
+      "name": "Hi-Way Safety",
+      "state": "CA",
+      "active": true
+    },
+    {
+      "id": 42,
+      "name": "Honda Performance",
+      "state": "CA",
+      "active": true
+    },
+    {
+      "id": 55,
+      "name": "Pacific Plastic Technology",
+      "state": "CA",
+      "active": true
+    },
+    {
+      "id": 59,
+      "name": "Ramko Mfg.",
+      "state": "CA",
+      "active": true
+    }
+  ]
+}
